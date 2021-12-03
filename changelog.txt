@@ -1,0 +1,2 @@
+Fixed auto-centering toggle glitch.
+Added version changes to update dialog.
