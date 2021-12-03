@@ -1,2 +1,1 @@
-Fixed auto-centering toggle glitch.
-Added version changes to update dialog.
+Fixed auto-centering toggle glitch.#CRLF#Added version changes to update dialog.
